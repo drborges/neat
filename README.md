@@ -1,2 +1,0 @@
-# neat
-Created with CodeSandbox

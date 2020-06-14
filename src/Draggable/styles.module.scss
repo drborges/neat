@@ -1,0 +1,13 @@
+.dragging {
+  border: thin solid #999;
+}
+
+.draggable {
+  border-radius: 5px;
+  border: thin solid rgba(#999, 0);
+}
+
+.draggable:hover {
+  cursor: pointer;
+  border: thin solid #999;
+}
